@@ -1,5 +1,4 @@
-# tensorflow_combat
-examples
+# tensorflow_combat examples
 
 使用TensorFlow流程：  
 （1）定义算法公式，即forward流程  
